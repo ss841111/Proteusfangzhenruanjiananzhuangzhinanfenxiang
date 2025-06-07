@@ -1,1 +1,8 @@
-# Proteusfangzhenruanjiananzhuangzhinanfenxiang
+
+
+## 下载链接
+[Proteus仿真软件安装指南分享](https://pan.quark.cn/s/8a8f2029590a)
+
+## 说明
+
+该仓库仅用于学习交流，请勿用于商业用途。
